@@ -11,3 +11,5 @@ Unsorted
 *.doc
 *.docx
 Endnote
+.*sync*
+zotero
